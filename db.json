@@ -1,0 +1,224 @@
+{
+  "student": [
+    {
+      "name": "Johnasdsdsadsadsad",
+      "email": "student1@mail.com",
+      "phone": "1234567890",
+      "birthday": "2000-01-01",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Computer Science",
+      "admissionYear": "2020",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Alice",
+      "email": "student2@mail.com",
+      "phone": "2345678901",
+      "birthday": "1999-02-02",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "45/65",
+      "major": "Electrical Engineering",
+      "admissionYear": "2021"
+    },
+    {
+      "id": 3,
+      "name": "Bob",
+      "email": "student3@mail.com",
+      "phone": "3456789012",
+      "birthday": "2001-03-03",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "35/55",
+      "major": "Mechanical Engineering",
+      "admissionYear": "2019"
+    },
+    {
+      "id": 4,
+      "name": "Emily",
+      "email": "student4@mail.com",
+      "phone": "4567890123",
+      "birthday": "2002-04-04",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "75/25",
+      "major": "Biology",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 5,
+      "name": "David",
+      "email": "student5@mail.com",
+      "phone": "5678901234",
+      "birthday": "1998-05-05",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "55/45",
+      "major": "Physics",
+      "admissionYear": "2018"
+    },
+    {
+      "id": 6,
+      "name": "Sarah",
+      "email": "student6@mail.com",
+      "phone": "6789012345",
+      "birthday": "1997-06-06",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/35",
+      "major": "Chemistry",
+      "admissionYear": "2023"
+    },
+    {
+      "id": 7,
+      "name": "Michael",
+      "email": "student7@mail.com",
+      "phone": "7890123456",
+      "birthday": "2003-07-07",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "45/65",
+      "major": "Economics",
+      "admissionYear": "2017"
+    },
+    {
+      "id": 8,
+      "name": "Olivia",
+      "email": "student8@mail.com",
+      "phone": "8901234567",
+      "birthday": "1996-08-08",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "55/75",
+      "major": "Sociology",
+      "admissionYear": "2020"
+    },
+    {
+      "id": 9,
+      "name": "James",
+      "email": "student9@mail.com",
+      "phone": "9012345678",
+      "birthday": "2004-09-09",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "25/65",
+      "major": "English Literature",
+      "admissionYear": "2019"
+    },
+    {
+      "id": 10,
+      "name": "Sophia",
+      "email": "student10@mail.com",
+      "phone": "0123456789",
+      "birthday": "1995-10-10",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "35/45",
+      "major": "Political Science",
+      "admissionYear": "2021"
+    },
+    {
+      "id": 11,
+      "name": "Liam",
+      "email": "student11@mail.com",
+      "phone": "1234567890",
+      "birthday": "2005-11-11",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/75",
+      "major": "Business Administration",
+      "admissionYear": "2016"
+    },
+    {
+      "id": 12,
+      "name": "Mia",
+      "email": "student12@mail.com",
+      "phone": "2345678901",
+      "birthday": "1994-12-12",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "45/55",
+      "major": "Marketing",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 13,
+      "name": "Ethan",
+      "email": "student13@mail.com",
+      "phone": "3456789012",
+      "birthday": "1993-01-13",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "35/75",
+      "major": "Nursing",
+      "admissionYear": "2015"
+    },
+    {
+      "id": 14,
+      "name": "Ava",
+      "email": "student14@mail.com",
+      "phone": "4567890123",
+      "birthday": "2006-02-14",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "55/45",
+      "major": "History",
+      "admissionYear": "2019"
+    },
+    {
+      "id": 15,
+      "name": "Noah",
+      "email": "student15@mail.com",
+      "phone": "5678901234",
+      "birthday": "1992-03-15",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/55",
+      "major": "Psychology",
+      "admissionYear": "2020"
+    },
+    {
+      "id": 16,
+      "name": "Emma",
+      "email": "student16@mail.com",
+      "phone": "6789012345",
+      "birthday": "2007-04-16",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "45/35",
+      "major": "Chemical Engineering",
+      "admissionYear": "2018"
+    },
+    {
+      "id": 17,
+      "name": "William",
+      "email": "student17@mail.com",
+      "phone": "7890123456",
+      "birthday": "1991-05-17",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "35/45",
+      "major": "Environmental Science",
+      "admissionYear": "2021"
+    },
+    {
+      "id": 18,
+      "name": "Charlotte",
+      "email": "student18@mail.com",
+      "phone": "8901234567",
+      "birthday": "2008-06-18",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "55/65",
+      "major": "Music",
+      "admissionYear": "2017"
+    },
+    {
+      "id": 19,
+      "name": "Benjamin",
+      "email": "student19@mail.com",
+      "phone": "9012345678",
+      "birthday": "1990-07-19",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Mathematics",
+      "admissionYear": "2023"
+    },
+    {
+      "id": 20,
+      "name": "Avery",
+      "email": "student20@mail.com",
+      "phone": "0123456789",
+      "birthday": "2009-08-20",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "45/55",
+      "major": "Art History",
+      "admissionYear": "2016"
+    }
+  ]
+}
